@@ -1,0 +1,11 @@
+.cub{
+width: 200px;
+height: 200px;
+background-color: rgb(44, 149, 44);
+margin: 10px  10px;
+}
+.parent-div{
+    display: flex;
+   
+    justify-content: space-around;
+}
